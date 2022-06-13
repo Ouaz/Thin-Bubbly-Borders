@@ -1,0 +1,118 @@
+
+game.png
+size: 1024, 64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/BubblyBorders/Borders/ConcaveConvexInner
+  rotate: false
+  xy: 4, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveConvexInner
+  rotate: false
+  xy: 4, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/BubblyBorders/Borders/ConcaveConvexOuter
+  rotate: false
+  xy: 112, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveConvexOuter
+  rotate: false
+  xy: 112, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/BubblyBorders/Borders/ConcaveInner
+  rotate: false
+  xy: 220, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveInner
+  rotate: false
+  xy: 220, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/BubblyBorders/Borders/ConcaveOuter
+  rotate: false
+  xy: 328, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConcaveOuter
+  rotate: false
+  xy: 328, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/BubblyBorders/Borders/ConvexConcaveInner
+  rotate: false
+  xy: 436, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexConcaveInner
+  rotate: false
+  xy: 436, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/BubblyBorders/Borders/ConvexConcaveOuter
+  rotate: false
+  xy: 544, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexConcaveOuter
+  rotate: false
+  xy: 544, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/BubblyBorders/Borders/ConvexInner
+  rotate: false
+  xy: 652, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexInner
+  rotate: false
+  xy: 652, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/BubblyBorders/Borders/ConvexOuter
+  rotate: false
+  xy: 760, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Borders/ConvexOuter
+  rotate: false
+  xy: 760, 4
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
