@@ -1,6 +1,6 @@
 # Thin Bubbly Borders
 
-Latest version: July 19th, 2022
+Latest version: July 20th, 2022
 
 Original Bubbly Borders mod creator: [will-ca](https://github.com/will-ca/Bubbly-Borders-Example)
 
@@ -20,10 +20,10 @@ Compared to default borders, Thin Bubbly Borders makes:
 ---
 Changes:
 
-- Outer border thickness = -4px
-- Inner border thickness = -4px
-- Inner border offset = -3,2px
-- Inner border blur = -50%
+- Outer border thickness = -5px
+- Inner border thickness = -5px
+- Inner border offset = -4,2px
+- Inner border blur = -75%
 
 ---
 Installation:
