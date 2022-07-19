@@ -1,6 +1,6 @@
 # Thin Bubbly Borders
 
-Latest version: June 12th, 2022
+Latest version: July 19th, 2022
 
 Original Bubbly Borders mod creator: [will-ca](https://github.com/will-ca/Bubbly-Borders-Example)
 
